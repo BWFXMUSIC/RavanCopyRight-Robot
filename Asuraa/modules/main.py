@@ -22,7 +22,7 @@ START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡�
 async def start_command_handler(_, msg):
     buttons = [
         [InlineKeyboardButton("⛩️𝐀ᴅᴅ 𝐁σт⛩️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [InlineKeyboardButton("• ʜᴀɴᴅʟᴇʀ •", callback_data="vip_back")]
+        [InlineKeyboardButton("❣️𝗙𝗨𝗟𝗟 𝗧𝗜𝗠𝗘 👻", callback_data="vip_back")]
         
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
