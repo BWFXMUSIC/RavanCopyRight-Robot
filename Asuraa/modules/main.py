@@ -12,7 +12,7 @@ from Asuraa import Asuraa as app
 from config import *
 # Constants
 FORBIDDEN_KEYWORDS = ["porn", "xxx", "NCERT", "ncert", "randi", "Pre-Medical", "kinematics", "Experiments", "Experiment", "experiment", "madarchod", "papa", "page", "chut", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt", "Dm", "ALLEN", "NEET", "Sexy", "𝐉𝐨𝐢𝐧", "joni"]
-START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡️ </b>
+START_TEXT = """<b> 💌ʙω͠ғ ᴄᴏᴘʏʀɪɢʜᴛ🔥 </b>
 
 ʜᴇʏ ᴛʜɪs ɪs ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ ʀᴏʙᴏᴛ🤖!\n ᴡᴇ ᴇɴsᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ sᴇᴄᴜʀɪᴛʏ💻 !\n ᴛʜɪs ʙᴏᴛ ᴄᴀɴ ʀᴇᴍᴏᴠᴇ ʟᴏɴɢ ᴛᴇxᴛ ᴇᴅɪᴛᴇᴅ ᴍsɢs , ᴀɴᴅ ᴄᴏᴘʏʀɪɢʜᴛ ᴍᴀᴛᴇʀɪᴀʟ...!\nᴊᴜsᴛ ᴀᴅᴅ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ !!\nғᴇᴇʟ ғʀᴇᴇ ғʀᴏᴍ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ᴄᴏᴘʏʀɪɢʜᴛ... ! 🛡! 🤝🔐 """
 
