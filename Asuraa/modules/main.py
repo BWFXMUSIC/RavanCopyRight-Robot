@@ -11,7 +11,7 @@ from config import BOT_USERNAME, OWNER_ID
 from Asuraa import Asuraa as app
 from config import *
 # Constants
-FORBIDDEN_KEYWORDS = ["porn", "xxx", "NCERT", "ncert", "randi", "Pre-Medical", "kinematics", "Experiments", "Experiment", "experiment", "madarchod", "papa", "page", "chut", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt", "JEE", "ALLEN", "NEET", "jee", "neet", "joni"]
+FORBIDDEN_KEYWORDS = ["porn", "xxx", "NCERT", "ncert", "randi", "Pre-Medical", "kinematics", "Experiments", "Experiment", "experiment", "madarchod", "papa", "page", "chut", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt", "Dm", "ALLEN", "NEET", "Sexy", "𝐉𝐨𝐢𝐧", "joni"]
 START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡️ </b>
 
 ʜᴇʏ ᴛʜɪs ɪs ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ ʀᴏʙᴏᴛ🤖!\n ᴡᴇ ᴇɴsᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ sᴇᴄᴜʀɪᴛʏ💻 !\n ᴛʜɪs ʙᴏᴛ ᴄᴀɴ ʀᴇᴍᴏᴠᴇ ʟᴏɴɢ ᴛᴇxᴛ ᴇᴅɪᴛᴇᴅ ᴍsɢs , ᴀɴᴅ ᴄᴏᴘʏʀɪɢʜᴛ ᴍᴀᴛᴇʀɪᴀʟ...!\nᴊᴜsᴛ ᴀᴅᴅ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ !!\nғᴇᴇʟ ғʀᴇᴇ ғʀᴏᴍ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ᴄᴏᴘʏʀɪɢʜᴛ... ! 🛡! 🤝🔐 """
@@ -34,9 +34,9 @@ async def start_command_handler(_, msg):
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/L2R_KING"),
-     InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/BWF_MUSIC1")]
+    [InlineKeyboardButton("🔥ᴏᴡɴᴇʀ🔥", url=f"https://t.me/L2R_KING"),
+     InlineKeyboardButton("", callback_data="back_to_start"),
+     InlineKeyboardButton("💌sᴜᴘᴘᴏʀᴛꨄ︎", url="https://t.me/BWF_MUSIC1")]
 ]
 
 @app.on_callback_query(filters.regex("vip_back"))
